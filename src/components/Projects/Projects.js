@@ -22,7 +22,12 @@ function Projects() {
               imgPath={tata}
               isBlog={false}
               title="TATA Cliq"
-              description="Tata-Cliq is an E-commerce web application to provides a wide range of apparel and accessories for men and women."
+              description="Tata-Cliq is an E-commerce web application to provides a wide"
+              subheading="Features"
+              subheading1="● Social Sign-in/Sign-up"
+              subheading2="● Responsive for all Screens"
+              subheading3="● Payment Gateway"
+              description1="● OTP Authentication"
               link="https://github.com/paras0602/Tata-Cliq"
             />
           </Col>

@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Paras Jain </span>
             from <span className="purple"> New Delhi, India.</span>
-            <br />I am Aspiring Full Stack MERN Developer.
+            <br />I am an aspiring full stack web developer with experience in effective collaboration and a keen interest in solving problems and coming up with effective solutions. With a good understanding of Data Structures and Algorithms, proficiency in React, and with a stronghold on MERN stack.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
